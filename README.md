@@ -25,6 +25,5 @@ After that select the following settings and the attached screen shot is there f
 
 [Download Check PNG](https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/tick.png)
 
-
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/locationofcheckmark.PNG" height="500px"
  width="500px">
