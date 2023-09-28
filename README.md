@@ -82,6 +82,16 @@ Create the new toast_border.xml.
 
  Now afther this step all we need to do to finish this project is edit the MainActivity.java.
 
+
  # Finishing MainActivity.java
+
+Add the code below in the screenshots , to the MainActivity.java
+
+<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/firsthalfofxmlmainactivityfile.PNG" height="500px"
+ width="2000px">
+
+
+<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/lowerhalfofmainactivityxmlcode.PNG" height="500px"
+ width="2000px">
 
 
