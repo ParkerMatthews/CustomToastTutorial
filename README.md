@@ -60,4 +60,4 @@ Here , is what your layout should look like now.
  Fill in the toast.xml file with the code below.
 
  <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/toasxmlcode.PNG" height="500px"
- width="5000px">
+ width="2000px">
