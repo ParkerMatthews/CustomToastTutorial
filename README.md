@@ -27,4 +27,4 @@ After that select the following settings and the attached screen shot is there f
 
 
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/locationofcheckmark.PNG" height="500px"
- width="1000px">
+ width="500px">
