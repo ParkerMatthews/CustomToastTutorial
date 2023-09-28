@@ -39,3 +39,7 @@ Download the image , and then copy and paste it in the drawable-v24 folder , alo
 Firstly , you need to go into your activty_main.xml file and change the layout from <android.constraintlayout.widget.ConstraintLayout> to
 Linear layout .
 
+<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/xmlfile.PNG" height="500px"
+ width="2000px">
+
+
