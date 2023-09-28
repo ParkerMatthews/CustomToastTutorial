@@ -17,7 +17,9 @@ After that select the following settings and the attached screen shot is there f
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/pickingsettings.PNG" height="500px"
  width="2000px">
 
-- baseball/MLB
-+ modding 
-* reading histriocal novles
+- Name : CustomToast
++ Package Name : com.LOCATION.customtoast
+* Save Location : C:\Users\StormTroopers\Desktop\CustomToast
+* Langauge: Java
+* Minimum SDK: API 21: Android 5.0 (Lollipop)
 
