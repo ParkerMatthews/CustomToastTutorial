@@ -99,7 +99,7 @@ Add the code below in the screenshots , to the MainActivity.java
  Now run the module and hit the button and you should get this result below.
 
  <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/finalresult.PNG" height="500px"
- width="2000px">
+ width="500px">
 
 # DONE
 
