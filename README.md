@@ -35,6 +35,10 @@ Download the image , and then copy and paste it in the drawable-v24 folder , alo
  width="500px">
 
 # Starting The Code!
+---
+--- 
+
+# Starting Activity_main.xml
 
 Firsly, go to your main activity_main.xml and change all of the code to the photo below!
 
@@ -46,3 +50,8 @@ Here , is what your layout should look like now.
 
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/displayscreenlayout.PNG" height="500px"
  width="5000px">
+
+# Finished Activity_main.xml
+
+
+ Now you done with activity_main.xml file we can move on to the other files we will add a total of two more files.
