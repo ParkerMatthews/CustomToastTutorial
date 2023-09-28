@@ -14,7 +14,8 @@ After Android Studio is installed start it up , and create a new project and the
 # Selecting Settings
 After that select the following settings and the attached screen shot is there for help.
 
-
+<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/pickingsettings.PNG" height="500px"
+ width="2000px">
 
 - baseball/MLB
 + modding 
