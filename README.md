@@ -91,8 +91,8 @@ Add the code below in the screenshots , to the MainActivity.java
  width="2000px">
 
 
-<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/lowerhalfofmainactivityxmlcode.PNG" height="200px"
- width="500px">
+<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/lowerhalfofmainactivityxmlcode.PNG" height="500px"
+ width="2000px">
 
  # Now test your code!
 
