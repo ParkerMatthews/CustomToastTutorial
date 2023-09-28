@@ -31,7 +31,7 @@ After that select the following settings and the attached screen shot is there f
 Now , you can make this image anything you like but for this tutorial im going to be using a checkmark image.
 Download the image , and then copy and paste it in the drawable-v24 folder , along with other two ic_launcher files that should already be in there.
 
-<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/locationofcheckmark.PNG" height="200px"
+<img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/locationofcheckmark.PNG" height="300px"
  width="500px">
 
 # Starting The Code!
