@@ -36,8 +36,7 @@ Download the image , and then copy and paste it in the drawable-v24 folder , alo
 
 # Starting The Code!
 
-Firstly , you need to go into your activty_main.xml file and change the layout from <android.constraintlayout.widget.ConstraintLayout> to
-Linear layout .
+Firsly, go to your main activity_main.xml and change all of the code to the photo below!
 
 
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/xmlfile.PNG" height="500px"
