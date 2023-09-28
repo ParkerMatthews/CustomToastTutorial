@@ -2,6 +2,7 @@
 In this Tutorial you will learn how to create a Custom Toast Image , when clicking a button or activating a toast.
 ---
 ---
+
 # Starting Out!
 
 When starting out , you will need to firsly install Android Studio , and once that has been taken care of your able to start creating your custom toast!
