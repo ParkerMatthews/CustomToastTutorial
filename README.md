@@ -76,5 +76,6 @@ Create the new toast_border.xml.
 
  Then fill in the toast_border.xml file with the code below in the screenshot.
 
+
  <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/toast_bordermaincode.PNG" height="500px"
  width="2000px">
