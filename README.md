@@ -105,5 +105,5 @@ Add the code below in the screenshots , to the MainActivity.java
 
 If you have any questions please check out the video tutorial.
 
-[Download Check PNG](https://www.youtube.com/watch?v=7U3jdZyt7Ak)
+[Video Tutorial](https://www.youtube.com/watch?v=7U3jdZyt7Ak)
 
