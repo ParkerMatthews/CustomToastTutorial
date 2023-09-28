@@ -53,5 +53,9 @@ Here , is what your layout should look like now.
 
 # Finished Activity_main.xml
 
+# Starting Toast.xml File
 
  Now you done with activity_main.xml file we can move on to the other files we will add a total of two more files.
+
+ <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/toasxmlcode.PNG" height="500px"
+ width="500px">
