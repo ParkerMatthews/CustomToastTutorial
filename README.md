@@ -58,6 +58,7 @@ Here , is what your layout should look like now.
  Now you done with activity_main.xml file we can move on to the other files we will add a total of two more files.
 
  Fill in the toast.xml file with the code below.
+ You will need to change the android:orientation="vertical" to "horizontal".
 
  <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/toasxmlcode.PNG" height="500px"
  width="2000px">
