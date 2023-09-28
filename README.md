@@ -28,7 +28,7 @@ After that select the following settings and the attached screen shot is there f
 
 [Download Check PNG](https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/tick.png)
 
-Now , you can make this image anything you like but for this tutorial im going to be using a checkmakr image.
+Now , you can make this image anything you like but for this tutorial im going to be using a checkmark image.
 
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/locationofcheckmark.PNG" height="500px"
  width="500px">
