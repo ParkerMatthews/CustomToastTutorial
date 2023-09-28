@@ -45,4 +45,4 @@ Firsly, go to your main activity_main.xml and change all of the code to the phot
 Here , is what your layout should look like now.
 
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/displayscreenlayout.PNG" height="2000px"
- width="100px">
+ width="1000px">
