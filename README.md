@@ -67,4 +67,7 @@ Here , is what your layout should look like now.
 
 # Done with Toast.xml File
 
- 
+# Starting and Creating toast_border.xml
+
+ <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/toast_borderxmlcode.PNG" height="500px"
+ width="2000px">
