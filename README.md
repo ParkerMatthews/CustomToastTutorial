@@ -23,3 +23,4 @@ After that select the following settings and the attached screen shot is there f
 * Langauge: Java
 * Minimum SDK: API 21: Android 5.0 (Lollipop)
 
+[Download Check PNG](https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/tick.png "download")
