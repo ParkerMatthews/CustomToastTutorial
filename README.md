@@ -10,3 +10,13 @@ After Android Studio is installed start it up , and create a new project and the
 
 <img src="https://github.com/ParkerMatthews/CustomToastTutorial/blob/main/img/pickinglayout.PNG" height="500px"
  width="2000px">
+
+# Selecting Settings
+After that select the following settings and the attached screen shot is there for help.
+
+
+
+- baseball/MLB
++ modding 
+* reading histriocal novles
+
